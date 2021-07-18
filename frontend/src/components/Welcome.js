@@ -8,7 +8,7 @@ const Welcome = () => (
       App that retrieves photos using unsplash API
     </p>
     <p>
-      <Button variant="primary" href="https://unsplash.com" >Learn more</Button>
+      <Button variant="primary" href="https://unsplash.com" target="blank" >Learn more</Button>
     </p>
   </Jumbotron>
 );
